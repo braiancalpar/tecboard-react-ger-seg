@@ -18,7 +18,7 @@
   "dependencies": {
     "@emotion/react": "~11.14.0",
     "@emotion/styled": "~11.14.1",
-    "@hookform/resolvers": "^3.9.1",
+    "@hookform/resolvers": "^6.0.0",
     "@mui/material": "~7.0.2",
     "@mui/x-charts": "~8.27.4",
     "@sentry/react": "^10.42.0",
@@ -27,9 +27,9 @@
     "json-server": "1.0.0-beta.3",
     "react": "~18.3.1",
     "react-dom": "~19.3.1",
-    "react-hook-form": "^7.54.0",
+    "react-hook-form": "^7.90.0",
     "react-router-dom": "~6.28.0",
-    "zod": "^3.24.0",
+    "zod": "^4.6.7",
     "zustand": "^4.5.5"
   },
   "devDependencies": {
